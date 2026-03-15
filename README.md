@@ -108,7 +108,7 @@
 </div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/adarsh-arya-23/adarsh-arya-23/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/adarsh-arya-23/adarsh-arya-23/output/github-contribution-grid-snake.svg" />
 </p>
 
 ## 🏆 GitHub Trophies
