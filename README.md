@@ -104,8 +104,12 @@
 <!-- Snake Game Repo View -->
 
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/adarsh-arya-23/adarsh-arya-23/output/github-contribution-grid-snake.svg" />
 </div>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/adarsh-arya-23/adarsh-arya-23/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=adarsh-arya-23&theme=radical&no-frame=false&no-bg=true&margin-w=4)
